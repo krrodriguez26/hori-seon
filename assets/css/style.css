@@ -61,22 +61,27 @@ p {
     margin-left: 20px;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-    float: right;
-    margin-left: 20px;
+.h2{
+    margin-bottom: 20px;
+    font-size: 36px;
 }
 
-.online-reputation-management img {
+.search-engine-optimization img {
     max-height: 200px;
     float: left;
     margin-right: 20px;
 }
 
-.social-media-marketing img {
+.online-reputation-management img {
     max-height: 200px;
     float: right;
     margin-left: 20px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
+    float: left;
+    margin-right: 20px;
 }
 
 .benefits {
