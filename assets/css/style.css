@@ -4,30 +4,31 @@
     margin: 0;
 }
 
+body {
+    background-color: #d9dcd6;
+}
+
 .banner {
+    padding: 20px;
     padding-top: 15px;
     margin-right: 20px;
+    clear: both;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
     background-color: #2a607c;
-    color: #ffffff;
-    float: right;
+    color: #ffffff;   
 }
 
 .seo {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
+    color: #d9dcd6;    
 }
 
-.banner ul  {
+.banner nav ul li{
     list-style-type: none;
     display: inline-block;
-    margin-left: 25px;
-    padding-top: 15px;
-    margin-right: 20px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;   
+    margin-left: 25px;    
 }
 
 a {
@@ -48,10 +49,6 @@ p {
     background-position: center;
 }
 
-body {
-    background-color: #d9dcd6;
-}
-
 .content {
     margin-bottom: 20px;
     padding: 50px;
@@ -64,26 +61,22 @@ body {
     margin-left: 20px;
 }
 
-.float-left{
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
 .search-engine-optimization img {
     max-height: 200px;
+    float: right;
+    margin-left: 20px;
 }
 
 .online-reputation-management img {
     max-height: 200px;
+    float: left;
+    margin-right: 20px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
+    float: right;
+    margin-left: 20px;
 }
 
 .benefits {
