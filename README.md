@@ -1,5 +1,4 @@
 # hori-seon
-HORISEON:
 
 # Project Description:
 A marketing agency needs help refactoring an existing site to make it more accessible, and is optimized for search engines.
@@ -12,8 +11,10 @@ Replaced all <div> tags into sematic tags such as, <header>,<article>,<section>,
 CSS was updated as the <div> tags were removed off the HTML.
 
 # Deployed Link
+https://krrodriguez26.github.io/hori-seon/
 
 # Screenshot
+![](https://github.com/krrodriguez26/hori-seon/blob/main/assets/images/homepage.png)
 
 
 
